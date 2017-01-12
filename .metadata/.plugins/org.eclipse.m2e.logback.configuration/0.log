@@ -1,0 +1,21 @@
+2017-01-12 18:36:56,958 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-01-12 18:39:21,476 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\java8\workspace\SpringBootDataJPAwithJSP\bootsample\pom.xml
+2017-01-12 18:39:31,386 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.josephbagnes.sample:bootsample:0.0.1-SNAPSHOT @ D:\java8\workspace\SpringBootDataJPAwithJSP\bootsample\pom.xml.
+2017-01-12 18:39:33,898 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootsample/src/main/java
+2017-01-12 18:39:33,899 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootsample/src/main/resources
+2017-01-12 18:39:33,901 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootsample/src/test/java
+2017-01-12 18:39:35,816 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2017-01-12 18:39:37,340 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 18:39:37,416 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-12 18:39:37,424 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 18:39:37,460 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java8\workspace\SpringBootDataJPAwithJSP\bootsample\src\test\resources
+2017-01-12 18:40:02,734 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-01-12 18:40:03,696 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.josephbagnes.sample:bootsample:0.0.1-SNAPSHOT @ D:\java8\workspace\SpringBootDataJPAwithJSP\bootsample\pom.xml.
+2017-01-12 18:40:04,109 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootsample/src/main/java
+2017-01-12 18:40:04,110 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /bootsample/src/main/resources
+2017-01-12 18:40:04,112 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bootsample/src/test/java
+2017-01-12 18:40:04,244 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-01-12 18:40:04,403 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 18:40:04,422 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-01-12 18:40:04,425 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-01-12 18:40:04,433 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\java8\workspace\SpringBootDataJPAwithJSP\bootsample\src\test\resources
