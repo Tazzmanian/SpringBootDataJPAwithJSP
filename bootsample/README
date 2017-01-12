@@ -1,0 +1,11 @@
+## Source
+Used tutorial https://www.youtube.com/watch?v=mG6zPc-L85w
+
+## Running
+Run by simply choose Java Application (Application.java)
+
+## Problem
+There was problem that took me 2 days.
+The solution I found in 
+http://stackoverflow.com/questions/41542986/multiple-errors-when-starting-server-with-spring-boot#new-answer?newreg=d270264597cd433c9ae9f64da0835552
+and it was to simply purge the repository `mvn dependency:purge-local-repository`
